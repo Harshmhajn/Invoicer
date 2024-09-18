@@ -21,7 +21,7 @@ Installation
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/your-username/invoice-generator.git
+git clone https://github.com/Harshmhajn/invoice-generator.git
 Navigate to the project directory:
 bash
 Copy code
