@@ -44,6 +44,8 @@ Usage
 Enter the required invoice details (e.g., customer name, items, prices).
 Click the "Generate Invoice" button.
 Download the invoice in PDF format.
+License
+This project is licensed under the MIT License.
 
 Contributions
 Feel free to fork this project and submit pull requests if you would like to contribute to its improvement.
